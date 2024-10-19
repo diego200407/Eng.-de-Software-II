@@ -1,0 +1,11 @@
+O cliente acessa a loja de jogos e escolhe os títulos que deseja comprar. Ele entrega os jogos selecionados ao atendente no balcão. O atendente verifica a disponibilidade dos jogos no sistema, identificando-se com seu login.
+
+Os jogos podem ser físicos ou digitais. Caso o jogo seja digital, o sistema deve gerar um código de ativação ou link de download para o cliente. Se o cliente não tiver cadastro na loja, seus dados deverão ser registrados antes da compra.
+
+Caso algum jogo físico não esteja disponível na loja, o atendente verifica a disponibilidade em outra unidade da rede. Se houver disponibilidade e o cliente desejar, o atendente faz a pré-venda dos jogos, selecionando os títulos e a quantidade desejada.
+
+Se o jogo estiver em outra loja, o cliente pode escolher entre recebê-lo na própria loja ou solicitar a entrega em sua residência. Caso o cliente não tenha endereço cadastrado, seus dados devem ser inseridos no sistema.
+
+O cliente, então, se dirige ao caixa, onde informa o seu CPF ao atendente. O caixa confere os dados da venda e do cliente, iniciando o processo de finalização da compra. O pagamento pode ser realizado via Pix, cartão de crédito, cartão de débito ou dinheiro. Se o pagamento for feito em dinheiro, o caixa informa o valor recebido e o sistema calcula o troco.
+
+Após o pagamento, o sistema emite a nota fiscal que é entregue ao cliente, juntamente com os jogos (ou, no caso de jogos digitais, o código ou link de download).
